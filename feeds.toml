@@ -1,0 +1,11 @@
+[xindiemagazine_chart]
+title = "씬디매거진 ─ 케이인디차트"
+url = "http://www.xindiemagazine.co.kr/index.php?mid=kichart"
+entrySelector = "ol li"
+titleSelector = "p b"
+linkSelector = "a.hx.fixed"
+imageSelector = "img.tmb"
+waitUntil = "networkidle"
+© 2021 GitHub, Inc.
+Terms
+Priva
