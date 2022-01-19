@@ -4,9 +4,34 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-Indie Chart (2022년 1월호) (씬디매거진 ─ 케이인디차트)]]></title>
+            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=5185</link>
+            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=5185</guid>
+            <pubDate>Wed, 19 Jan 2022 07:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
+		
+				<i class="bg fixed"></i><i class="bg2 fixed"></i>
+		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
+				
+				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/185/005/280x280.ratio.jpg?20220119152339" alt="">		
+				
+						<span class="ribbon">
+																				</span>				
+				
+		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=5185" data-viewer="/index.php?mid=kichart&amp;document_srl=5185&amp;listStyle=viewer">
+					</a>
+		
+							</div>
+	
+	<p>
+		<b>K-Indie Chart (2022년 1월호)</b>
+							</p>]]></content:encoded>
+            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/185/005/280x280.ratio.jpg?20220119152339" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-Indie Chart (2021년 12월호) (씬디매거진 ─ 케이인디차트)]]></title>
             <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=4960</link>
@@ -206,31 +231,6 @@
 		<b>K-Indie Chart (2021년 5월호)</b>
 							</p>]]></content:encoded>
             <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/651/003/280x280.ratio.jpg?20210510130521" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Indie Chart (2021년 4월호) (씬디매거진 ─ 케이인디차트)]]></title>
-            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=3375</link>
-            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=3375</guid>
-            <pubDate>Thu, 30 Dec 2021 02:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
-		
-				<i class="bg fixed"></i><i class="bg2 fixed"></i>
-		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
-				
-				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/375/003/280x280.ratio.jpg?20210510130456" alt="">		
-				
-						<span class="ribbon">
-																				</span>				
-				
-		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=3375" data-viewer="/index.php?mid=kichart&amp;document_srl=3375&amp;listStyle=viewer">
-					</a>
-		
-							</div>
-	
-	<p>
-		<b>K-Indie Chart (2021년 4월호)</b>
-							</p>]]></content:encoded>
-            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/375/003/280x280.ratio.jpg?20210510130456" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
