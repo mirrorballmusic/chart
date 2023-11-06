@@ -4,9 +4,34 @@
         <title>씬디매거진 ─ 케이인디차트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 23:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 00:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-Indie Chart (2023년 10월호)]]></title>
+            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=8868</link>
+            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=8868</guid>
+            <pubDate>Mon, 06 Nov 2023 00:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
+		
+				<i class="bg fixed"></i><i class="bg2 fixed"></i>
+		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
+				
+				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/868/008/280x280.ratio.jpg?20231106093436" alt="">		
+				
+						<span class="ribbon">
+																				</span>				
+				
+		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=8868" data-viewer="/index.php?mid=kichart&amp;document_srl=8868&amp;listStyle=viewer">
+					</a>
+		
+							</div>
+	
+	<p>
+		<b>K-Indie Chart (2023년 10월호)</b>
+							</p>]]></content:encoded>
+            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/868/008/280x280.ratio.jpg?20231106093436" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-Indie Chart (2023년 9월호)]]></title>
             <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=8554</link>
@@ -206,31 +231,6 @@
 		<b>K-Indie Chart (2023년 2월호)</b>
 							</p>]]></content:encoded>
             <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/301/006/280x280.ratio.jpg?20230315102533" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Indie Chart (2023년 1월호)]]></title>
-            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=6161</link>
-            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=6161</guid>
-            <pubDate>Tue, 15 Aug 2023 15:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
-		
-				<i class="bg fixed"></i><i class="bg2 fixed"></i>
-		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
-				
-				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/161/006/280x280.ratio.jpg?20230207095544" alt="">		
-				
-						<span class="ribbon">
-																				</span>				
-				
-		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=6161" data-viewer="/index.php?mid=kichart&amp;document_srl=6161&amp;listStyle=viewer">
-					</a>
-		
-							</div>
-	
-	<p>
-		<b>K-Indie Chart (2023년 1월호)</b>
-							</p>]]></content:encoded>
-            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/161/006/280x280.ratio.jpg?20230207095544" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
