@@ -4,9 +4,34 @@
         <title>씬디매거진 ─ 케이인디차트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 06:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025년 2월 통합 차트]]></title>
+            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=12139</link>
+            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=12139</guid>
+            <pubDate>Wed, 12 Mar 2025 07:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
+		
+				<i class="bg fixed"></i><i class="bg2 fixed"></i>
+		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
+				
+				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/139/012/280x280.ratio.jpg?20250312152651" alt="">		
+				
+						<span class="ribbon">
+																				</span>				
+				
+		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=12139" data-viewer="/index.php?mid=kichart&amp;document_srl=12139&amp;listStyle=viewer">
+					</a>
+		
+							</div>
+	
+	<p>
+		<b>2025년 2월 통합 차트</b>
+							</p>]]></content:encoded>
+            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/139/012/280x280.ratio.jpg?20250312152651" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년 1월 통합 차트]]></title>
             <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=12137</link>
@@ -206,31 +231,6 @@
 		<b>2024년 6월 통합 차트</b>
 							</p>]]></content:encoded>
             <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/113/012/280x280.ratio.jpg?20250312115704" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Indie Chart (2024년 6월호)]]></title>
-            <link>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=11010</link>
-            <guid>http://www.xindiemagazine.co.kr/index.php?mid=kichart&amp;document_srl=11010</guid>
-            <pubDate>Wed, 04 Sep 2024 02:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tmb_wrp ribbon_v2 fin_load">
-		
-				<i class="bg fixed"></i><i class="bg2 fixed"></i>
-		<img class="ie8_only shadow" src="/modules/board/skins/sketchbook5/img/ie/shadow.png" alt="">
-				
-				<span class="no_img loading"></span><img class="tmb" src="http://www.xindiemagazine.co.kr/files/thumbnails/010/011/280x280.ratio.jpg?20240531131636" alt="">		
-				
-						<span class="ribbon">
-																				</span>				
-				
-		<a class="hx fixed" href="/index.php?mid=kichart&amp;document_srl=11010" data-viewer="/index.php?mid=kichart&amp;document_srl=11010&amp;listStyle=viewer">
-					</a>
-		
-							</div>
-	
-	<p>
-		<b>K-Indie Chart (2024년 6월호)</b>
-							</p>]]></content:encoded>
-            <enclosure url="http://www.xindiemagazine.co.kr/files/thumbnails/010/011/280x280.ratio.jpg?20240531131636" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
